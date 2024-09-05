@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kafka-project
+  kafka:
+    bootstrap-servers: 68.183.187.158:9093
+#  zookeeper:
+#    connect-string:68.183.187.158:2181
+server:
+    port: 8080
